@@ -4,7 +4,7 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=86d3f3a95c324c9479bd8986968f4327"
 
 DEPENDS = "fpp-native"
 
-SRCREV = "ae6839b93bb9aafa0ad84941c643c691dbbac338"
+SRCREV = "d7b346e3a851e8a1e2351fccfa816537ac2db7e9"
 SRC_URI = "git://github.com/miketsukerman/fpp-core-tools.git;protocol=https;branch=master"
 
 S = "${WORKDIR}/git"
