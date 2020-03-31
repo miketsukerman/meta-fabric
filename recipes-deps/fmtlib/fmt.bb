@@ -12,4 +12,6 @@ S = "${WORKDIR}/git"
 
 inherit cmake
 
+EXTRA_OECMAKE += "-DFMT_INSTALL=ON"
+
 BBCLASSEXTEND = "native nativesdk"
