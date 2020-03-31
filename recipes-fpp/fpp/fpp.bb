@@ -2,7 +2,7 @@ DESCRIPTION = "Franca+ parser library"
 LICENSE = "Apache2"
 LIC_FILES_CHKSUM = "file://License.md;md5=f96360df973a9211c5b8bbeffd19b28b"
 
-DEPENDS = "bnfc-native boost-native pybind11-native cli11 spdlog"
+DEPENDS = "bnfc-native pybind11-native cli11 spdlog"
 
 SRCREV = "e6c3653b0ba5e29327990e720e3a0e13ece0aa5b"
 SRC_URI = "git://github.com/miketsukerman/fpp.git;protocol=https;branch=master"
