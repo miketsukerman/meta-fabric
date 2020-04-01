@@ -4,7 +4,7 @@ LIC_FILES_CHKSUM = "file://License.md;md5=f96360df973a9211c5b8bbeffd19b28b"
 
 DEPENDS = "bnfc-native pybind11-native cli11 spdlog fmt"
 
-SRCREV = "c75fbe420aae3d56304b91a1f202388d8f8a418d"
+SRCREV = "ebccd6fcf4196ba3167f1d49e504cf7c8e85760a"
 SRC_URI = "git://github.com/miketsukerman/fpp.git;protocol=https;branch=master"
 
 S = "${WORKDIR}/git"
